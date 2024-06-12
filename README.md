@@ -1,2 +1,0 @@
-# slick-exemplos
- Usando Slicks
